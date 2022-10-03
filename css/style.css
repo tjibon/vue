@@ -1,0 +1,27 @@
+/* Default Css Start */
+body{
+    overflow-x: hidden;
+    font-family: 'Roboto',sans-serif;
+  
+
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+button, input, optgroup, select, textarea {
+    /* margin: 0; */
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+/* Default Css End */
+
+/* Google Font */
+
+
+
+
